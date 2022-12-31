@@ -1,4 +1,4 @@
-# CECS-282-Fibonacci-Solitaire
+# Fibonacci-Solitaire
 ## Project 1
 
 Like regular soliaire but with a twist! Behold Fibonacci Solitaire.
